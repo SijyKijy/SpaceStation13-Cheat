@@ -38,7 +38,7 @@ DWORD WINAPI Main(HMODULE mainThread) {
 	Log("Version: " + ByondIntegration::GetByondVersion());
 	Log("Ip: " + ByondIntegration::GetServerIp());
 
-	while (!GetAsyncKeyState(VK_INSERT))
+	while (!GetAsyncKeyState(VK_END))
 	{
 		// Wallhack
 		if (GetAsyncKeyState(VK_NUMPAD1) & 1) {

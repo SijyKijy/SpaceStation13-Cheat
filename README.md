@@ -6,7 +6,7 @@
 * Fullbright
 
 ## Key Bindings
-* Insert - Unload hack
+* End - Unload hack
 * Wallhack - Numpad 1 (On/Off)
 * Fullbright - Numpad 2 (On/Off)
 
